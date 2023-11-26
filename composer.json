@@ -1,5 +1,5 @@
 {
-    "name": "pharaonic/laravel-user-devices",
+    "name": "omarpero/laravel-user-devices",
     "description": "A package that allows you to manage the different devices per a single user.",
     "license": "MIT",
     "autoload": {
